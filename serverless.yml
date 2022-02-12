@@ -1,0 +1,5 @@
+fastify:
+  component: '@twn39/tencent-fastify'
+  inputs:
+    src: ./dist # 执行目录 更多配置请参考配置文档
+    region: ap-guangzhou
